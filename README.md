@@ -1,1 +1,1 @@
-# digital_humanity
+# Digital Humanity and AI week 3
